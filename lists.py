@@ -31,7 +31,7 @@ print(sublist)
 # print(multilist)
 
 # how to create a different copy of a list 
-# (in list2=list1, both vars reffere to the same list)
+# (in list2=list1, both vars refer to the same list)
 
 list_cpy = mylist.copy()
 list_cpy = list(mylist)
